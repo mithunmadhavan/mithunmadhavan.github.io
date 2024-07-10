@@ -1,11 +1,5 @@
-<h1 align="center">Hi 👋, I'm Mithun</h1>
-<h3 align="center">A passionate Full Stack Developer</h3>
-
-- 🔭 I’m currently working with **Techcarrot FZ LLC**
-
-- 🌱 I’m currently learning **Artificial Intellegence**
-
-- 📫 How to reach me **mithunpm809@gmail.com**
+<h1 align="center">Hi 👋, I'm <a href="https://mithunmadhavan.github.io/" target="blank"> Mithun Kodoth </a></h1>
+<h3 align="center">A passionate Full Stack Architect</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -139,6 +133,3 @@
 - Mithun has worked in Waterfall and Agile methodology and was exposed to project management tools like Jira and Clickup and also is a certified Project Managment Professional adn Agile practitioner. Mithun also have expertise in project and team handling upto size 11. Creating roadmaps, sprint and capacity planning, project risk management using burn-down charts, mentoring, handling stakeholders.
 
 - Mithun has experience in working on domains like E-Com, Insurance, Laboratory and Hospital Management Systems, Billing and Inventory Management Systems, Ticket Booking Systems, HR Management Software, White Label Solutions, Loyalty Management Software.
-
-# Visitors
-![Profile views counter](https://profile-counter.glitch.me/amrishkha05/count.svg) <img align='right' src='https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif' width='100'>
