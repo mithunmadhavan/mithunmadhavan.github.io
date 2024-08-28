@@ -1,0 +1,1 @@
+function newTyped(){}$(function(){$("#type_hello_description").typed({strings:["in Dubai, UAE","AI Enthusiast","Deep Learning Expert","Full Stack Architect","Tech Lead"],typeSpeed:90,backSpeed:50,backDelay:2e3,contentType:"html",loop:true,loopCount:false}),$(".reset").click(function(){$("#typed").typed("reset")})});
