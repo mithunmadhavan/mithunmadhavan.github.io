@@ -69,8 +69,8 @@ Currently based in Dubai, UAE, I lead teams to deliver cutting-edge software sol
 <h3 align="left">📈 Professional Highlights:</h3>
 
 ### Current Role:
-**Technology Lead Full Stack Backend**  
-**@ Techcarrot FZ LLC, June 2022 - Present | Dubai, UAE**  
+**Software Engineer - Lead**  
+**@ Etihad Aviation Group, June 2022 - Present | Abu Dhabi, UAE**  
 - Architected and implemented scalable solutions for Manufacturing, Automobile, and Real Estate clients.
 - Directed DevOps practices, cloud server management (Azure), and high availability systems.
 - Engineered APIs with **NodeJS** in hybrid architectures, incorporating **Kafka** for optimized queuing.
